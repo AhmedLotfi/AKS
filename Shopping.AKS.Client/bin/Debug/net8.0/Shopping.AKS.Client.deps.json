@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Shopping.AKS.Client/1.0.0": {
+        "runtime": {
+          "Shopping.AKS.Client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shopping.AKS.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
