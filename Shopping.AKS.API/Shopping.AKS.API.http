@@ -1,0 +1,6 @@
+@Shopping.AKS.API_HostAddress = http://localhost:5117
+
+GET {{Shopping.AKS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
