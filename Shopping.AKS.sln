@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping.AKS.API", "Shopping.AKS.API\Shopping.AKS.API.csproj", "{68F7BB22-1E3E-451E-AD4D-DDCAE6979B3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping.AKS.Client", "Shopping.AKS.Client\Shopping.AKS.Client.csproj", "{E849B78E-D8FA-4D93-A3EE-D87E81E69F69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{68F7BB22-1E3E-451E-AD4D-DDCAE6979B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68F7BB22-1E3E-451E-AD4D-DDCAE6979B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68F7BB22-1E3E-451E-AD4D-DDCAE6979B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E849B78E-D8FA-4D93-A3EE-D87E81E69F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E849B78E-D8FA-4D93-A3EE-D87E81E69F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E849B78E-D8FA-4D93-A3EE-D87E81E69F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E849B78E-D8FA-4D93-A3EE-D87E81E69F69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
